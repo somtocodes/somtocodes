@@ -21,5 +21,4 @@ Feel free to reach out if you have an interesting project!
 ---
 
 📍 Delta, Nigeria  
-📧 [your.email@example.com]  
-🔗 [linkedin.com/in/yourprofile] (add when ready)
+📧 [somtonazu2010@gmail.com]
