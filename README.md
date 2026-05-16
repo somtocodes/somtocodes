@@ -1,6 +1,6 @@
 # Hi there, I'm Somto 👋
 
-**Data Analyst & Python Developer** based in Lagos, Nigeria.
+**Data Analyst & Python Developer** based in Delta, Nigeria.
 
 I enjoy turning messy data into clear, actionable insights through interactive dashboards and clean Python tools.
 
