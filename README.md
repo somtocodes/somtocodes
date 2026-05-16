@@ -10,7 +10,7 @@ I enjoy turning messy data into clear, actionable insights through interactive d
 - Improving my skills in data visualization and automation
 
 ### Current Projects
-- [Haven Analytics Dashboard](https://github.com/somtocodes/haven-sales-dashboard) — Live sales analytics app
+- [Haven Analytics Dashboard](https://github.com/somtocodes/Sales-analytics-dashboard) — Live sales analytics app
 - [Simple Pandas Cleaner](https://github.com/somtocodes/simple-pandas-cleaner) — Fast data cleaning utility
 
 ### Open to:
